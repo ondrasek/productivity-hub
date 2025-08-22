@@ -1,5 +1,5 @@
 {
-  "name": "AI Code Forge DevContainer",
+  "name": "Productivity Hub DevContainer",
   "build": {
     "dockerfile": "Dockerfile",
     "context": "."
